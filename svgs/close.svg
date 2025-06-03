@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<title>New Project</title>
+	<defs>
+		<image  width="800" height="800" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgAQMAAADhvpQrAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAS1JREFUeJztzUERAAAMAqDZv/Ra+PCgALmCSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKR7CQPIHEDIbMPz1oAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<use id="Background" style="display: none" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m242.3 53.3l379.5 657.4-64.1 37-379.5-657.4z"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s0" d="m621.8 90.3l-379.5 657.4-64.1-37 379.5-657.4z"/>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "name": "mini-icons",
+  "version": "1.0.0",
+  "description": "Free and light-weight svg icons library for react projects",
+  "keywords": [
+    "svg",
+    "icons",
+    "react",
+    "icons",
+    "icons",
+    "frontend"
+  ],
+  "exports": {
+    ".": "./index.js",
+    "./Barchart": "./icons/Barchart.js",
+    "./Bell": "./icons/Bell.js",
+    "./Close": "./icons/Close.js",
+    "./Cross": "./icons/Cross.js",
+    "./Google": "./icons/Google.js",
+    "./index": "./icons/index.js",
+    "./Tick": "./icons/Tick.js"
+  },
+  "files": [
+    "icons/"
+  ],
+  "homepage": "https://github.com/PatelAbhay550/mini-icons#readme",
+  "bugs": {
+    "url": "https://github.com/PatelAbhay550/mini-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatelAbhay550/mini-icons.git"
+  },
+  "license": "MIT",
+  "author": "Abhay Patel",
+  "type": "commonjs",
+  "main": "/icons/index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
